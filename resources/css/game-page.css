@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+.move-button{
+    height: 100px;
+    width: 100px;
+    border-width: 2px;
+    border-color: white;
+    border-radius: 50px;
+    background-color: transparent;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
