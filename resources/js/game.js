@@ -45,4 +45,4 @@ function playGame(playerMove){
     }
 }
 
-console.log(playGame('rock'));
+console.log();
